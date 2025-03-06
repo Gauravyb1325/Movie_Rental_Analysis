@@ -10,42 +10,42 @@ This Power BI project presents an in-depth analysis of a movie rental business u
    - Analyzes customer ratings by location.
    - Identifies high and low-performing stores for strategic improvements.
 
-   **![Geographic Analysis Placeholder](path/to/image1.png)**
+   ![Screenshot 2025-03-07 051035](https://github.com/user-attachments/assets/8bf8f820-36dd-44c3-b9ce-0d657be589d2)
 
 ### 2. **Revenue Analysis**
    - Breakdown of rental revenue by country and film category.
    - Trends in rental rates and replacement costs.
    - Seasonal revenue fluctuations.
 
-   **![Revenue Analysis Placeholder](path/to/image2.png)**
+   ![Screenshot 2025-03-07 051050](https://github.com/user-attachments/assets/acd3eff0-3b69-436d-adf2-f44f46909a69)
 
 ### 3. **Customer Analysis**
    - Customer segmentation based on rental behavior.
    - Active vs. inactive customers and their impact on revenue.
    - Customer distribution by country and city.
 
-   **![Customer Analysis Placeholder](path/to/image3.png)**
+   ![Screenshot 2025-03-07 051107](https://github.com/user-attachments/assets/82709bc4-308c-4acb-8c5a-87085904956b)
 
 ### 4. **Rental Analysis**
    - Rental duration and frequency patterns.
    - Relationship between rental rates and rental durations.
    - Seasonal variations in rental activities.
 
-   **![Rental Analysis Placeholder](path/to/image4.png)**
+   ![Screenshot 2025-03-07 051128](https://github.com/user-attachments/assets/adb7279c-0f84-47b4-bd1e-99644f99e630)
 
 ### 5. **Film Analysis**
    - Performance metrics of different film categories.
    - Popularity index and rental trends of films.
    - Inventory distribution by film rating and category.
 
-   **![Film Analysis Placeholder](path/to/image5.png)**
+   ![Screenshot 2025-03-07 051142](https://github.com/user-attachments/assets/4dcaab8d-45b4-4436-b00c-956730c4bbec)
 
 ### 6. **Actor Analysis**
    - Revenue contribution of actors to movie rentals.
    - Actor-wise rental rate variation.
    - Actor preferences for specific film genres.
 
-   **![Actor Analysis Placeholder](path/to/image6.png)**
+   ![Screenshot 2025-03-07 051158](https://github.com/user-attachments/assets/357bb8ac-b46a-4fbf-8f86-e7e54b301362)
 
 ## Insights & Business Recommendations
 - **Revenue Optimization:** Focus on high-revenue-generating categories such as Sports and Sci-Fi while strategizing ways to improve performance in underperforming categories like Travel and Music.
